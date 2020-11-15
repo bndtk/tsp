@@ -1,0 +1,16 @@
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 2em;
+}
+
+.form-group{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.form-control{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+}
